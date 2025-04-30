@@ -1,0 +1,301 @@
+date,city,country,avg_temp_c
+2000-01-01,London,UK,12.074
+2000-01-31,New York,USA,-0.714
+2000-03-01,London,UK,7.986
+2000-03-31,Xian,China,7.115
+2000-04-30,Tokyo,Japan,29.439
+2000-05-30,London,UK,33.244
+2000-06-29,Tokyo,Japan,16.101
+2000-07-29,London,UK,17.115
+2000-08-28,Xian,China,16.472
+2000-09-27,London,UK,28.361
+2000-10-27,London,UK,24.162
+2000-11-26,Xian,China,3.282
+2000-12-26,Delhi,India,29.854
+2001-01-25,New York,USA,16.822
+2001-02-24,Delhi,India,6.622
+2001-03-26,Delhi,India,5.983
+2001-04-25,New York,USA,21.406
+2001-05-25,Xian,China,-4.215
+2001-06-24,Delhi,India,3.798
+2001-07-24,New York,USA,-2.658
+2001-08-23,Abidjan,Côte D'Ivoire,-3.333
+2001-09-22,Delhi,India,1.444
+2001-10-22,London,UK,12.903
+2001-11-21,Abidjan,Côte D'Ivoire,27.603
+2001-12-21,New York,USA,9.716
+2002-01-20,Tokyo,Japan,27.14
+2002-02-19,Tokyo,Japan,10.179
+2002-03-21,Delhi,India,19.479
+2002-04-20,London,UK,3.982
+2002-05-20,London,UK,8.844
+2002-06-19,Abidjan,Côte D'Ivoire,-2.61
+2002-07-19,New York,USA,24.969
+2002-08-18,London,UK,9.165
+2002-09-17,London,UK,30.989
+2002-10-17,New York,USA,27.317
+2002-11-16,Xian,China,24.868
+2002-12-16,London,UK,5.58
+2003-01-15,New York,USA,2.885
+2003-02-14,Xian,China,1.28
+2003-03-16,London,UK,7.384
+2003-04-15,Tokyo,Japan,-4.001
+2003-05-15,London,UK,18.696
+2003-06-14,London,UK,10.702
+2003-07-14,Tokyo,Japan,31.048
+2003-08-13,Tokyo,Japan,-3.196
+2003-09-12,Abidjan,Côte D'Ivoire,13.215
+2003-10-12,London,UK,20.469
+2003-11-11,Xian,China,8.821
+2003-12-11,Xian,China,19.503
+2004-01-10,London,UK,5.469
+2004-02-09,Tokyo,Japan,8.998
+2004-03-10,Tokyo,Japan,17.794
+2004-04-09,Abidjan,Côte D'Ivoire,26.105
+2004-05-09,London,UK,26.748
+2004-06-08,Abidjan,Côte D'Ivoire,23.111
+2004-07-08,Tokyo,Japan,17.852
+2004-08-07,Tokyo,Japan,25.308
+2004-09-06,New York,USA,9.641
+2004-10-06,Tokyo,Japan,7.89
+2004-11-05,Abidjan,Côte D'Ivoire,12.971
+2004-12-05,Delhi,India,5.196
+2005-01-04,Abidjan,Côte D'Ivoire,28.612
+2005-02-03,Tokyo,Japan,10.716
+2005-03-05,New York,USA,3.615
+2005-04-04,London,UK,13.767
+2005-05-04,New York,USA,5.349
+2005-06-03,London,UK,1.54
+2005-07-03,Abidjan,Côte D'Ivoire,23.335
+2005-08-02,New York,USA,20.903
+2005-09-01,New York,USA,-1.886
+2005-10-01,Abidjan,Côte D'Ivoire,1.034
+2005-10-31,Delhi,India,7.112
+2005-11-30,Abidjan,Côte D'Ivoire,30.363
+2005-12-30,Xian,China,26.088
+2006-01-29,Abidjan,Côte D'Ivoire,26.079
+2006-02-28,Xian,China,-4.783
+2006-03-30,Xian,China,7.513
+2006-04-29,Delhi,India,-3.681
+2006-05-29,Xian,China,12.317
+2006-06-28,Tokyo,Japan,-3.072
+2006-07-28,Abidjan,Côte D'Ivoire,14.333
+2006-08-27,Tokyo,Japan,1.612
+2006-09-26,New York,USA,16.617
+2006-10-26,Abidjan,Côte D'Ivoire,6.018
+2006-11-25,Xian,China,30.438
+2006-12-25,New York,USA,8.763
+2007-01-24,New York,USA,17.981
+2007-02-23,Xian,China,23.504
+2007-03-25,Delhi,India,34.608
+2007-04-24,London,UK,23.333
+2007-05-24,Abidjan,Côte D'Ivoire,14.765
+2007-06-23,Delhi,India,19.681
+2007-07-23,Delhi,India,7.76
+2007-08-22,Abidjan,Côte D'Ivoire,17.798
+2007-09-21,Xian,China,10.779
+2007-10-21,Abidjan,Côte D'Ivoire,1.872
+2007-11-20,Delhi,India,32.238
+2007-12-20,Tokyo,Japan,-2.044
+2008-01-19,Xian,China,5.322
+2008-02-18,Abidjan,Côte D'Ivoire,3.247
+2008-03-19,Xian,China,31.763
+2008-04-18,Abidjan,Côte D'Ivoire,30.361
+2008-05-18,Delhi,India,1.09
+2008-06-17,London,UK,30.176
+2008-07-17,New York,USA,17.992
+2008-08-16,New York,USA,-0.675
+2008-09-15,New York,USA,31.588
+2008-10-15,Delhi,India,30.13
+2008-11-14,Xian,China,26.189
+2008-12-14,Abidjan,Côte D'Ivoire,9.086
+2009-01-13,Xian,China,6.73
+2009-02-12,New York,USA,22.849
+2009-03-14,Delhi,India,17.788
+2009-04-13,New York,USA,16.918
+2009-05-13,Xian,China,28.921
+2009-06-12,Delhi,India,24.844
+2009-07-12,Delhi,India,32.706
+2009-08-11,Tokyo,Japan,34.485
+2009-09-10,New York,USA,8.383
+2009-10-10,Tokyo,Japan,4.163
+2009-11-09,New York,USA,12.46
+2009-12-09,Tokyo,Japan,-4.083
+2010-01-08,New York,USA,32.843
+2010-02-07,London,UK,13.41
+2010-03-09,Tokyo,Japan,2.554
+2010-04-08,New York,USA,20.041
+2010-05-08,Delhi,India,16.643
+2010-06-07,London,UK,34.822
+2010-07-07,New York,USA,21.37
+2010-08-06,Tokyo,Japan,12.544
+2010-09-05,Abidjan,Côte D'Ivoire,16.35
+2010-10-05,London,UK,12.849
+2010-11-04,Delhi,India,4.485
+2010-12-04,Abidjan,Côte D'Ivoire,14.036
+2011-01-03,New York,USA,20.202
+2011-02-02,Delhi,India,28.837
+2011-03-04,New York,USA,20.879
+2011-04-03,New York,USA,20.757
+2011-05-03,London,UK,34.5
+2011-06-02,Tokyo,Japan,15.738
+2011-07-02,New York,USA,34.187
+2011-08-01,New York,USA,14.088
+2011-08-31,Delhi,India,4.036
+2011-09-30,Tokyo,Japan,32.228
+2011-10-30,Tokyo,Japan,-0.427
+2011-11-29,Tokyo,Japan,-3.462
+2011-12-29,Tokyo,Japan,4.006
+2012-01-28,New York,USA,26.554
+2012-02-27,Abidjan,Côte D'Ivoire,30.748
+2012-03-28,Delhi,India,18.004
+2012-04-27,Xian,China,19.589
+2012-05-27,New York,USA,27.471
+2012-06-26,New York,USA,20.528
+2012-07-26,New York,USA,22.907
+2012-08-25,Abidjan,Côte D'Ivoire,-1.604
+2012-09-24,New York,USA,27.935
+2012-10-24,London,UK,20.733
+2012-11-23,New York,USA,29.842
+2012-12-23,London,UK,15.073
+2013-01-22,London,UK,3.179
+2013-02-21,Delhi,India,28.206
+2013-03-23,Xian,China,15.02
+2013-04-22,Delhi,India,25.046
+2013-05-22,Xian,China,-0.113
+2013-06-21,Tokyo,Japan,22.128
+2013-07-21,Delhi,India,-1.598
+2013-08-20,Delhi,India,29.197
+2013-09-19,Xian,China,-1.387
+2013-10-19,Xian,China,0.414
+2013-11-18,Tokyo,Japan,3.707
+2013-12-18,New York,USA,-0.263
+2014-01-17,London,UK,23.141
+2014-02-16,Tokyo,Japan,-1.345
+2014-03-18,Tokyo,Japan,2.992
+2014-04-17,Delhi,India,16.344
+2014-05-17,London,UK,-1.67
+2014-06-16,Abidjan,Côte D'Ivoire,32.438
+2014-07-16,New York,USA,16.687
+2014-08-15,New York,USA,20.648
+2014-09-14,Abidjan,Côte D'Ivoire,29.255
+2014-10-14,Abidjan,Côte D'Ivoire,-2.442
+2014-11-13,New York,USA,31.203
+2014-12-13,London,UK,9.038
+2015-01-12,Tokyo,Japan,23.733
+2015-02-11,New York,USA,24.173
+2015-03-13,Tokyo,Japan,15.478
+2015-04-12,Xian,China,24.796
+2015-05-12,Xian,China,24.25
+2015-06-11,Abidjan,Côte D'Ivoire,0.464
+2015-07-11,Abidjan,Côte D'Ivoire,25.32
+2015-08-10,Delhi,India,4.362
+2015-09-09,London,UK,18.586
+2015-10-09,Delhi,India,25.782
+2015-11-08,Delhi,India,15.653
+2015-12-08,Abidjan,Côte D'Ivoire,21.494
+2016-01-07,Xian,China,17.169
+2016-02-06,Tokyo,Japan,26.591
+2016-03-07,Delhi,India,34.158
+2016-04-06,London,UK,7.345
+2016-05-06,Xian,China,21.95
+2016-06-05,London,UK,24.635
+2016-07-05,London,UK,6.833
+2016-08-04,Tokyo,Japan,19.565
+2016-09-03,New York,USA,34.969
+2016-10-03,Xian,China,20.732
+2016-11-02,Xian,China,4.818
+2016-12-02,Tokyo,Japan,27.762
+2017-01-01,Xian,China,21.74
+2017-01-31,New York,USA,14.808
+2017-03-02,London,UK,34.351
+2017-04-01,Xian,China,-2.285
+2017-05-01,London,UK,0.012
+2017-05-31,Xian,China,1.503
+2017-06-30,London,UK,34.462
+2017-07-30,London,UK,-0.713
+2017-08-29,London,UK,32.292
+2017-09-28,Delhi,India,16.528
+2017-10-28,Xian,China,13.499
+2017-11-27,Tokyo,Japan,25.625
+2017-12-27,Xian,China,30.058
+2018-01-26,London,UK,34.868
+2018-02-25,Abidjan,Côte D'Ivoire,18.372
+2018-03-27,Delhi,India,25.395
+2018-04-26,New York,USA,34.087
+2018-05-26,Xian,China,5.903
+2018-06-25,Delhi,India,21.754
+2018-07-25,Tokyo,Japan,5.241
+2018-08-24,Delhi,India,1.291
+2018-09-23,Xian,China,20.484
+2018-10-23,Xian,China,-0.757
+2018-11-22,London,UK,32.906
+2018-12-22,New York,USA,19.314
+2019-01-21,Tokyo,Japan,24.762
+2019-02-20,Tokyo,Japan,17.764
+2019-03-22,Xian,China,26.969
+2019-04-21,Tokyo,Japan,6.733
+2019-05-21,Xian,China,31.138
+2019-06-20,Tokyo,Japan,9.92
+2019-07-20,Xian,China,0.155
+2019-08-19,Delhi,India,1.12
+2019-09-18,New York,USA,4.733
+2019-10-18,Xian,China,34.029
+2019-11-17,Delhi,India,13.529
+2019-12-17,Abidjan,Côte D'Ivoire,3.079
+2020-01-16,London,UK,14.995
+2020-02-15,London,UK,20.084
+2020-03-16,Xian,China,25.501
+2020-04-15,Tokyo,Japan,-2.9
+2020-05-15,New York,USA,6.383
+2020-06-14,Abidjan,Côte D'Ivoire,-3.861
+2020-07-14,Abidjan,Côte D'Ivoire,6.899
+2020-08-13,Xian,China,1.381
+2020-09-12,Delhi,India,21.808
+2020-10-12,Xian,China,34.495
+2020-11-11,Delhi,India,-3.003
+2020-12-11,Abidjan,Côte D'Ivoire,31.771
+2021-01-10,London,UK,33.636
+2021-02-09,Tokyo,Japan,12.683
+2021-03-11,Delhi,India,33.356
+2021-04-10,Xian,China,27.269
+2021-05-10,London,UK,-0.597
+2021-06-09,Xian,China,-3.153
+2021-07-09,Delhi,India,18.669
+2021-08-08,Tokyo,Japan,22.303
+2021-09-07,Delhi,India,27.898
+2021-10-07,Xian,China,22.031
+2021-11-06,London,UK,26.992
+2021-12-06,Abidjan,Côte D'Ivoire,9.927
+2022-01-05,Tokyo,Japan,3.766
+2022-02-04,Xian,China,2.756
+2022-03-06,Abidjan,Côte D'Ivoire,6.62
+2022-04-05,New York,USA,-2.97
+2022-05-05,New York,USA,29.415
+2022-06-04,New York,USA,9.598
+2022-07-04,Xian,China,-3.097
+2022-08-03,Xian,China,-2.865
+2022-09-02,Tokyo,Japan,23.597
+2022-10-02,Tokyo,Japan,-0.615
+2022-11-01,London,UK,17.296
+2022-12-01,Tokyo,Japan,10.222
+2022-12-31,New York,USA,10.916
+2023-01-30,London,UK,-2.996
+2023-03-01,Delhi,India,27.332
+2023-03-31,New York,USA,22.361
+2023-04-30,London,UK,7.273
+2023-05-30,Delhi,India,11.312
+2023-06-29,Abidjan,Côte D'Ivoire,26.075
+2023-07-29,Delhi,India,21.268
+2023-08-28,Delhi,India,0.115
+2023-09-27,Tokyo,Japan,5.03
+2023-10-27,London,UK,24.363
+2023-11-26,Xian,China,14.515
+2023-12-26,New York,USA,23.426
+2024-01-25,Tokyo,Japan,17.854
+2024-02-24,New York,USA,18.866
+2024-03-25,London,UK,10.597
+2024-04-24,Abidjan,Côte D'Ivoire,17.05
+2024-05-24,Tokyo,Japan,32.287
+2024-06-23,Abidjan,Côte D'Ivoire,32.983
+2024-07-23,Tokyo,Japan,17.669
